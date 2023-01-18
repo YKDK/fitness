@@ -686,6 +686,7 @@ textarea.input {
   font-size: 1.25rem;
   line-height: 1.25;
   /* 25/20 */
+  text-align: start;
   -webkit-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
@@ -1318,6 +1319,9 @@ textarea.input {
 }
 
 .rules__open {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 1.25rem;
+          flex: 0 0 1.25rem;
   font-size: 0;
   height: 0.125rem;
   width: 1.25rem;
