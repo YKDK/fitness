@@ -2729,9 +2729,6 @@ textarea.input {
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
   }
 
   .footer__menu--links span {
@@ -2739,6 +2736,7 @@ textarea.input {
     display: -ms-flexbox;
     display: flex;
     position: relative;
+    padding-top: 10px;
   }
 
   .footer__menu--links span::before {
@@ -2775,9 +2773,6 @@ textarea.input {
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
   }
 
   .footer__menu--company span {
@@ -2785,6 +2780,7 @@ textarea.input {
     display: -ms-flexbox;
     display: flex;
     position: relative;
+    padding-top: 10px;
   }
 
   .footer__menu--company span::before {
@@ -2817,9 +2813,6 @@ textarea.input {
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
   }
 
   .footer__menu--address span {
@@ -2827,6 +2820,7 @@ textarea.input {
     display: -ms-flexbox;
     display: flex;
     position: relative;
+    padding-top: 10px;
   }
 
   .footer__menu--address span::before {
